@@ -1,10 +1,10 @@
-# FredToken Contract
+# FavourToken Contract
 
 ## Summary
 FavourToken is an ERC20 token contract implemented in Solidity. It provides basic functionalities such as transferring tokens, burning tokens, and minting new tokens. This contract is designed to offer a simple yet functional token implementation on the Ethereum blockchain.
 
 ## Description
-FredToken is a straightforward ERC20 token contract written in Solidity. The contract allows users to transfer tokens, burn their tokens to reduce the overall supply, and mint new tokens (accessible only to the contract owner). This contract serves as a fundamental example for those looking to understand ERC20 token contracts, and it can be extended or used as a foundation for more advanced token projects.
+FavourToken is a straightforward ERC20 token contract written in Solidity. The contract allows users to transfer tokens, burn their tokens to reduce the overall supply, and mint new tokens (accessible only to the contract owner). This contract serves as a fundamental example for those looking to understand ERC20 token contracts, and it can be extended or used as a foundation for more advanced token projects.
 
 ## Getting Started
 
